@@ -1,0 +1,14 @@
+{
+    "name": "microfaster/microfaster",
+    "description": "microfastcgi",
+    "keywords": ["microfaster", "fastcgi"],
+    "license": "microfaster",
+    "type": "project",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "microfaster\\": "lib/"
+        }
+    }
+}
